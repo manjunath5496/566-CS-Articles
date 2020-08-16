@@ -3,33 +3,33 @@
 <p>&nbsp;</p>
 <h2 id="mw-toc-heading">Contents</h2>
 <ul>
-<li class="toclevel-1 tocsection-1"><a href="https://en.wikipedia.org/wiki/Outline_of_computer_programming#History"><span class="toctext">History</span></a></li>
-<li class="toclevel-1 tocsection-2"><a href="https://en.wikipedia.org/wiki/Outline_of_computer_programming#Platforms"><span class="toctext">Platforms</span></a></li>
-<li class="toclevel-1 tocsection-3"><a href="https://en.wikipedia.org/wiki/Outline_of_computer_programming#Paradigms"><span class="toctext">Paradigms</span></a></li>
-<li class="toclevel-1 tocsection-4"><a href="https://en.wikipedia.org/wiki/Outline_of_computer_programming#Writing_programs"><span class="toctext">Writing programs</span></a>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Platforms"><span class="toctext">Platforms</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Paradigms"><span class="toctext">Paradigms</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Writing_programs"><span class="toctext">Writing programs</span></a>
 <ul>
-<li class="toclevel-2 tocsection-5"><a href="https://en.wikipedia.org/wiki/Outline_of_computer_programming#Methodology"><span class="toctext">Methodology</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Methodology"><span class="toctext">Methodology</span></a></li>
 </ul>
 </li>
-<li class="toclevel-1 tocsection-6"><a href="https://en.wikipedia.org/wiki/Outline_of_computer_programming#Algorithms"><span class="toctext">Algorithms</span></a></li>
-<li class="toclevel-1 tocsection-7"><a href="https://en.wikipedia.org/wiki/Outline_of_computer_programming#Programming_languages"><span class="toctext">Programming languages</span></a>
+<li class="toclevel-1 tocsection-6"><a href="#Algorithms"><span class="toctext">Algorithms</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Programming_languages"><span class="toctext">Programming languages</span></a>
 <ul>
-<li class="toclevel-2 tocsection-8"><a href="https://en.wikipedia.org/wiki/Outline_of_computer_programming#Types_of_programming_languages"><span class="toctext">Types of programming languages</span></a></li>
-<li class="toclevel-2 tocsection-9"><a href="https://en.wikipedia.org/wiki/Outline_of_computer_programming#Popular_languages"><span class="toctext">Popular languages</span></a></li>
-<li class="toclevel-2 tocsection-10"><a href="https://en.wikipedia.org/wiki/Outline_of_computer_programming#Anatomy_of_a_programming_language"><span class="toctext">Anatomy of a programming language</span></a></li>
-<li class="toclevel-2 tocsection-11"><a href="https://en.wikipedia.org/wiki/Outline_of_computer_programming#Comparisons_of_programming_languages"><span class="toctext">Comparisons of programming languages</span></a>
+<li class="toclevel-2 tocsection-8"><a href="#Types_of_programming_languages"><span class="toctext">Types of programming languages</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Popular_languages"><span class="toctext">Popular languages</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#Anatomy_of_a_programming_language"><span class="toctext">Anatomy of a programming language</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#Comparisons_of_programming_languages"><span class="toctext">Comparisons of programming languages</span></a>
 <ul>
-<li class="toclevel-3 tocsection-12"><a href="https://en.wikipedia.org/wiki/Outline_of_computer_programming#Comparisons_of_individual_languages"><span class="toctext">Comparisons of individual languages</span></a></li>
+<li class="toclevel-3 tocsection-12"><a href="#Comparisons_of_individual_languages"><span class="toctext">Comparisons of individual languages</span></a></li>
 </ul>
 </li>
 </ul>
 </li>
-<li class="toclevel-1 tocsection-13"><a href="https://en.wikipedia.org/wiki/Outline_of_computer_programming#Compilation"><span class="toctext">Compilation</span></a></li>
-<li class="toclevel-1 tocsection-14"><a href="https://en.wikipedia.org/wiki/Outline_of_computer_programming#Software"><span class="toctext">Software</span></a>
+<li class="toclevel-1 tocsection-13"><a href="#Compilation"><span class="toctext">Compilation</span></a></li>
+<li class="toclevel-1 tocsection-14"><a href="#Software"><span class="toctext">Software</span></a>
 <ul>
-<li class="toclevel-2 tocsection-15"><a href="https://en.wikipedia.org/wiki/Outline_of_computer_programming#Components"><span class="toctext">Components</span></a></li>
-<li class="toclevel-2 tocsection-16"><a href="https://en.wikipedia.org/wiki/Outline_of_computer_programming#Software_development"><span class="toctext">Software development</span></a></li>
-<li class="toclevel-2 tocsection-17"><a href="https://en.wikipedia.org/wiki/Outline_of_computer_programming#Software_engineering"><span class="toctext">Software engineering</span></a></li>
+<li class="toclevel-2 tocsection-15"><a href="#Components"><span class="toctext">Components</span></a></li>
+<li class="toclevel-2 tocsection-16"><a href="#Software_development"><span class="toctext">Software development</span></a></li>
+<li class="toclevel-2 tocsection-17"><a href="#Software_engineering"><span class="toctext">Software engineering</span></a></li>
 </ul>
 </li>
 </ul>
